@@ -17,6 +17,7 @@ Sin tecnicismos. Sin dolores de cabeza.
 ---
 
 ## 🧠 ¿Qué es Open Design?
+![Open Design UI](assets/opendesign-ui.png)
 
 Open Design es una herramienta open source que permite crear:
 
