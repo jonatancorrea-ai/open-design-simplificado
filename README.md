@@ -1,3 +1,5 @@
+![Open Design Simplificado](assets/hero.png)
+
 # 🎨 Open Design Simplificado
 
 ## La guía definitiva en español para instalar Open Design paso a paso
