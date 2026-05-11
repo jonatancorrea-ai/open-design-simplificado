@@ -3,6 +3,13 @@
 # 🎨 Open Design Simplificado
 
 ## La guía definitiva en español para instalar Open Design paso a paso
+![Open Source](https://img.shields.io/badge/Open%20Source-Si-10B981?style=for-the-badge)
+
+![Beginner Friendly](https://img.shields.io/badge/Principiantes-Friendly-7C3AED?style=for-the-badge)
+
+![Español](https://img.shields.io/badge/Idioma-Español-111827?style=for-the-badge)
+
+![Gemini CLI](https://img.shields.io/badge/Gemini-CLI-4285F4?style=for-the-badge)
 
 Instala Open Design aunque NO seas programador.  
 Sin tecnicismos. Sin dolores de cabeza.
